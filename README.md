@@ -1,9 +1,10 @@
-Pythonista 🐍
+# Pythonista 🐍
 
 Olá, me chamo Jefferson, sou apaixonado por inovação, tecnologia e conhecimento.
 Formado como Bacharel em Sistemas de Informação, em constante estudo, sempre buscando novos conhecimentos e aperfeiçoando os atuais.
 
-🛠️Habilidades técnicas:
+### 🛠️Habilidades técnicas:
+
 ➡ Python;
 ➡ Web Scraping;
 ➡ Git;
@@ -14,7 +15,8 @@ Formado como Bacharel em Sistemas de Informação, em constante estudo, sempre b
 ➡ Scrum;
 ➡ Django;
 
-🧰Ferramentas:
+### 🧰Ferramentas:
+
 ➡ PyCharm Community Edition;
 ➡ Visual Studio Code;
 ➡ Github;
@@ -26,7 +28,8 @@ Formado como Bacharel em Sistemas de Informação, em constante estudo, sempre b
 ➡ PowerBI;
 ➡ PowerApps;
 
-👤Características Pessoais:
+### 👤Características Pessoais:
+
 ➡ Autodidata;
 ➡ Acordar cedo;
 ➡ Estudante;
