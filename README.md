@@ -61,6 +61,7 @@ Formado como Bacharel em Sistemas de Informação, em constante estudo, sempre b
 ➡ Estudante;
   </div><div>
 ➡ Sonhador;
+</div>
 <br>
 <br>
 <br>
